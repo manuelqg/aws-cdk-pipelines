@@ -25,14 +25,14 @@ export const options: Options = {
             account: '581994098444',
             region: 'us-west-1',
             branch: 'main',
-            preApproval: false
+            preApproval: true
         },
         {
             name: 'prod', // Production environment in ca-central-1
             account: '581994098444',
             branch: 'main',
             region:'ca-central-1',
-            preApproval: false
+            preApproval: true
         }
     ]
 };
