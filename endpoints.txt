@@ -1,0 +1,4 @@
+dev= https://keaslek87j.execute-api.us-east-2.amazonaws.com/v1/
+stage=https://zvazovzyd3.execute-api.us-east-1.amazonaws.com/v1/
+prod-us-west2=https://1srvyddb0i.execute-api.us-west-2.amazonaws.com/v1/
+prod-us-west1=https://hsw0gnyvgh.execute-api.us-west-1.amazonaws.com/v1/
