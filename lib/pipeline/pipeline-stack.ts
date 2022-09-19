@@ -55,6 +55,7 @@ export class PipelineStack extends Stack {
                     'npm ci',
                     'npm run build',
                     'npx cdk synth',
+                    './runDocker.sh'
                 ],
             }),
         });
